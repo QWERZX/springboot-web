@@ -1,1 +1,69 @@
-<mxfile host="app.diagrams.net" modified="2021-12-03T10:52:34.891Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="3mrf3s6sU26zRe9JkVvw" version="15.8.2" type="github"><diagram id="yFrV9O_MNMDJxBCRGTHV" name="Page-1">7VrbbuM2EP0aPmahGynyUbTlLdAtUCDFdvuoWFpLrWy6Mr22+/XlUNTVTOCNrcZZ9CUhh8PbGfLMoRLkz9bHj1WyzX8RaVYiz0mPyJ8jz3Mdn6pfYDnVFhyEtWFVFalx6gyPxT9Z09NY90Wa7QaOUohSFtuhcSk2m2wpB7akqsRh6PZVlMNZt8kqOzM8LpPy3Pp7kcq8tlIv7Ow/ZcUqb2Z2Catb1knjbHayy5NUHHomP0b+rBJC1qX1cZaVAF6DS91v8Uxru7Aq28hLOnwuPv81+/jbz6vqk5unK/7wdJAPXj3Kt6Tcmw2bxcpTg0Al9ps0g0Ec5PNDXsjscZssofWgYq5suVyXquaqohkuq2R2fHadbrt7dWwysc5kdVIupgM1eJkDw0z10KEfNi55D3m/MSYm4qt25A4UVTC4fAdG/v1h5DpDkFwHn6HkEhtKeCqUwvtDqT0794MSvT+UAnp3KLH7Q4mEd4eS61pgIqWal38Vald9vMjfe9E0POx0lo2Ug0u3x65RlVbmtx7lqTXEIYpCxFwUYxTNUURQzBBTxhgKkYcYbTqprTyNB1K2ekWN+ZpgCtVSyJNxvgWZeqPQuucpp/UZhHayyNrSsi0mDmKBLjDEVUwIUneZzVFMEVfGhT0m14APYTQizaVTBMN3L7hntmAEkwXDlv8vCAZGVMUD6ysTI87eYTDwWGa8/c0IXhcMRV5csxWBJhq+w2CQsZp582BY0nKWqteTqYpK5mIlNkkZd1Y+BLXz+STE1kD5ZyblyWCZ7KUYAp0dC/mlV/4DhvqATW1+NCPrSgN/PzgBNG7U/r80nlDpjQLVbhhdG4YRNvlyEBUmYl8ts5dOsuE1mVSrTL6EcmA/FlVWJrL4NlyJLca6a1RVyannsBXFRu56I/8Khp52xqPTRmn/vJz7j/XR0F8V6hV0p63dyhVsgK9XQIFVASnC4DPEI2Bv7hjlw+eIebopQtzXDO8iutCWuWaXBfSiMxQHiFNEdSamPrSCZWFys0rMqiNQkSrrkVmMKO+JqwDyhSIqmILCAqCXIjNfD+hoH0VpEaKa5CgDf1hhrEf2wYd6k8ivMc+lyS7XfW/1tB2rscBCc76F5to38e15jr4Xnnstr4358ZY8Ry7lOXwlz10nLMhkVFITR80XTJMC1uTiGlnC6sJcX2+CGNGXmQDFMNyqm6obsCUXpvV+pLsHwCYdAann2QxagTiIJgWqZWjcY6vz2TVJ1ZSkeE29ITqWYVBgjmlS7z2YPdT0p9kK+Eu/CXnQ64VBAQNXhvCT8x+LmzxseZzYuIlNRk3h/9T0emoKL6Um8qbUZPu0ehtqOlcVWpEAk7Ri4lyUnGujEJiBkoZkIovc+RHuu08u1CKT/S3Cs7x/63TCsGHbCPcC03J08+6FJ/Fcp4FAp6VGq/LoonxwVbgG4bHf6+u+HTXfilrpeCE9UzxVuCwPFEu4AoAfnhYt3jplRwtblOob6g7zL9e5lUDOBQuGJnh1EJiIO7ZE3OZoAoIBjkb7beS+g+x9GIbZs95K/F/eyufF426bbK4Uj9xczohrkfUqzraoyN770ULetWJtDst5947O6x2+Bzof88OUdK6q3Z/26+8d3T9I+PG/</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-12-03T10:52:59.231Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="-yzZDVX7IDNyFwzsbbaU" version="15.8.2" type="github">
+  <diagram id="yFrV9O_MNMDJxBCRGTHV" name="Page-1">
+    <mxGraphModel dx="1038" dy="624" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ViVkCGTKgrL1hdgB-bwt-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="80" y="90" width="780" height="380" as="geometry" />
+        </mxCell>
+        <mxCell id="ViVkCGTKgrL1hdgB-bwt-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="100" y="105" width="160" height="350" as="geometry" />
+        </mxCell>
+        <mxCell id="ViVkCGTKgrL1hdgB-bwt-7" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="290" y="105" width="160" height="350" as="geometry" />
+        </mxCell>
+        <mxCell id="ViVkCGTKgrL1hdgB-bwt-8" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="480" y="105" width="160" height="350" as="geometry" />
+        </mxCell>
+        <mxCell id="ViVkCGTKgrL1hdgB-bwt-9" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="670" y="105" width="160" height="350" as="geometry" />
+        </mxCell>
+        <mxCell id="ViVkCGTKgrL1hdgB-bwt-11" value="&lt;font style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;科学问题&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;opacity=0;" parent="1" vertex="1">
+          <mxGeometry x="120" y="110" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ViVkCGTKgrL1hdgB-bwt-12" value="&lt;b&gt;研究思路&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;opacity=0;" parent="1" vertex="1">
+          <mxGeometry x="310" y="105" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ViVkCGTKgrL1hdgB-bwt-13" value="&lt;b&gt;研究内容&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;opacity=0;" parent="1" vertex="1">
+          <mxGeometry x="500" y="110" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ViVkCGTKgrL1hdgB-bwt-14" value="&lt;b&gt;研究目标&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;opacity=0;" parent="1" vertex="1">
+          <mxGeometry x="690" y="110" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ViVkCGTKgrL1hdgB-bwt-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=14;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="ViVkCGTKgrL1hdgB-bwt-15" target="ViVkCGTKgrL1hdgB-bwt-24" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="250" y="188" />
+              <mxPoint x="270" y="188" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ViVkCGTKgrL1hdgB-bwt-15" value="&lt;font style=&quot;font-size: 14px&quot;&gt;缺少归纳偏置，不能保证模型学习到解耦的特征。&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;dashed=1;" parent="1" vertex="1">
+          <mxGeometry x="120" y="140" width="130" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="ViVkCGTKgrL1hdgB-bwt-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=14;" parent="1" source="ViVkCGTKgrL1hdgB-bwt-16" target="ViVkCGTKgrL1hdgB-bwt-25" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ViVkCGTKgrL1hdgB-bwt-16" value="&lt;font style=&quot;font-size: 14px&quot;&gt;当前弱监督方法&lt;br&gt;不通用，需要设置监督信号的隐变量之间的关系。&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;dashed=1;" parent="1" vertex="1">
+          <mxGeometry x="120" y="255" width="130" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="ViVkCGTKgrL1hdgB-bwt-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=14;" parent="1" source="ViVkCGTKgrL1hdgB-bwt-17" target="ViVkCGTKgrL1hdgB-bwt-26" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ViVkCGTKgrL1hdgB-bwt-17" value="&lt;font style=&quot;font-size: 14px&quot;&gt;解耦表征学习缺少理论保证&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;dashed=1;" parent="1" vertex="1">
+          <mxGeometry x="120" y="360" width="130" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ViVkCGTKgrL1hdgB-bwt-24" value="引入少量标签作为监督信号" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry x="305" y="145" width="130" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="ViVkCGTKgrL1hdgB-bwt-25" value="引入互信息作为衡量任意函数关系的指标" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry x="302.5" y="260" width="135" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ViVkCGTKgrL1hdgB-bwt-26" value="&lt;span style=&quot;font-size: 14px&quot;&gt;建立解耦表征学习&lt;br&gt;的理论体系&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;dashed=1;" parent="1" vertex="1">
+          <mxGeometry x="305" y="360" width="130" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
